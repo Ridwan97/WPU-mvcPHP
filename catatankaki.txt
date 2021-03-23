@@ -1,0 +1,44 @@
+pertemuan 1
+mvc = memisahkan antara tampilan data dan proses
+
+kegunaan mvc = 
+Organisasi dan Struktur Kode
+Pemisahan logic dan tampilan
+perawatan kode
+Implementasi Konsep OOP yang sudah dipelajari
+Digunakan Oleh banyak web Aplication Framework
+
+
+Pertemuan2
+MVC 
+
+Public 		= menyimpan semua file-file yang bisa diakses oleh user
+folder public 	= css, img, js
+
+App 		= menyimpan folder dan file-file utama mvc kita
+Folder App 	= Core, Models, Controller, Views(home) , (library, helper)
+
+teknik bootstraping = 
+
+Pertemuan3
+
+pharsing = 
+htaccess = 
+
+file .htaccess
+Options -Indexes = berfungsi untuk membatasi seorang user untuk dapat mengakses file tersebut
+rtrim = 
+
+Pertemuan4
+
+Controller = Menghubungkan
+
+
+pertemuan5
+View 8.30
+
+
+
+
+
+
