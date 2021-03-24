@@ -41,4 +41,4 @@ View 8.30
 
 
 
-
+ATTR_PERSISTENT = > true = untuk membuat database kita terjaga terus
